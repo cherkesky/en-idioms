@@ -1,0 +1,12 @@
+/Users/cherkesky/workspace/csharp/exercises/idioms/bin/Debug/netcoreapp3.1/idioms.deps.json
+/Users/cherkesky/workspace/csharp/exercises/idioms/bin/Debug/netcoreapp3.1/idioms.runtimeconfig.json
+/Users/cherkesky/workspace/csharp/exercises/idioms/bin/Debug/netcoreapp3.1/idioms.runtimeconfig.dev.json
+/Users/cherkesky/workspace/csharp/exercises/idioms/bin/Debug/netcoreapp3.1/idioms.dll
+/Users/cherkesky/workspace/csharp/exercises/idioms/bin/Debug/netcoreapp3.1/idioms.pdb
+/Users/cherkesky/workspace/csharp/exercises/idioms/obj/Debug/netcoreapp3.1/idioms.csprojAssemblyReference.cache
+/Users/cherkesky/workspace/csharp/exercises/idioms/obj/Debug/netcoreapp3.1/idioms.csproj.CoreCompileInputs.cache
+/Users/cherkesky/workspace/csharp/exercises/idioms/obj/Debug/netcoreapp3.1/idioms.AssemblyInfoInputs.cache
+/Users/cherkesky/workspace/csharp/exercises/idioms/obj/Debug/netcoreapp3.1/idioms.AssemblyInfo.cs
+/Users/cherkesky/workspace/csharp/exercises/idioms/obj/Debug/netcoreapp3.1/idioms.dll
+/Users/cherkesky/workspace/csharp/exercises/idioms/obj/Debug/netcoreapp3.1/idioms.pdb
+/Users/cherkesky/workspace/csharp/exercises/idioms/obj/Debug/netcoreapp3.1/idioms.genruntimeconfig.cache
